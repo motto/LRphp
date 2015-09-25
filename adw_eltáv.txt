@@ -1,0 +1,8 @@
+STEP 1: Uninstall Best Price Ninja from Windows
+STEP 2: Remove “Ads by Best Price Ninja” adware with AdwCleaner
+STEP 3: Remove “Ads by Best Price Ninja” virus with Malwarebytes Anti-Malware Free
+STEP 4: Double-check for the “Ads by Best Price Ninja” malware with HitmanPro
+(Optional) STEP 5: Reset Internet Explorer, Firefox or Google Chrome settings to remove “Best Price Ninja” Ads
+https://toolslib.net/downloads/finish/1/      //adwcleaner
+https://www.malwarebytes.org/mwb-download/
+http://www.surfright.nl/en/hitmanpro

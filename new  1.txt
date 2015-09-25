@@ -1,0 +1,8 @@
+középső (postok) sáv id=stream_pagelet
+
+story div:
+id=hyperfeed_story_id_55dcd827cd5ab3011918439
+
+hasznos tartalom div class=_1dwg
+
+lájkoló sáv class=_5pcp _5vsi _52i6 _4l4
